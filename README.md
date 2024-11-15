@@ -1,6 +1,6 @@
-# reciperiot
+# recipe-riot
 
-A new Flutter project.
+Recipe Riot is a simple recipe generator Android app built using Flutter.
 
 ## Getting Started
 
